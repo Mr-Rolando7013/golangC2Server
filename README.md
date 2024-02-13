@@ -1,2 +1,2 @@
 # golangC2Server
-I'm working on a guid on how to create C2 servers using golang
+I'm working on a guide on how to create C2 servers using Golang.
